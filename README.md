@@ -13,7 +13,7 @@
 - 📚 Constant Learner: Committed to the journey of continuous improvement
 
 </table>
-<h3 align="left">My Statistics:</h3>
+<h2 align="left">My Statistics:</h2>
 
 <p align="center">
 <table align="center">
