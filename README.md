@@ -13,16 +13,13 @@
 - 📚 Constant Learner: Committed to the journey of continuous improvement
 
 </table>
-## My Statistics
+<h3 align="left">My Statistics:</h3>
 
 <p align="center">
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=PubuthPrajeshwara&theme=dark&show_icons=true&count_private=true" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=pcsplus&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </td>
 <td width="50%" align="center">
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PrasadSenavirathna&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> 
