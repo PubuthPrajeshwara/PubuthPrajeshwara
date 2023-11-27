@@ -19,7 +19,7 @@
 
 ## Let's Connect!
 
-- 🌐 [LinkedIn](your-linkedin-profile)
-- 📧 Email: your@email.com
+- 🌐 [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/pubuth-prajeshvara-85454b231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- 📧 Email: epubuth@email.com
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaboration or just a friendly tech chat. Happy coding! 🚀
