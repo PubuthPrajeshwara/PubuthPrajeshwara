@@ -69,6 +69,6 @@
 - <a href="https://linkedin.com/in/PubuthPrajeshwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pubuth Prajeshwara" height="30" width="40" /></a>
 - <a href="https://www.facebook.com/pubuth.prajeshvara?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prasad chandima" height="30" width="40" /></a>
 - <a href="https://instagram.com/pubuth_prajeshwara?igshid=OGQ5ZDc2ODk2ZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Pubuth Prajeshwara" height="30" width="40" /></a>
-- 📧 Email: epubuth@email.com
+- 📧 Email: epubuth@gmail.com
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaboration or just a friendly tech chat. Happy coding! 🚀
